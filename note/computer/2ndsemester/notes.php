@@ -1,5 +1,5 @@
 <?php
-$folderPath = '../../../notes/computer/1stsemester';
+$folderPath = '../../../notes/computer/2ndsemester';
 $filenames = scandir($folderPath);
 
 ?>
@@ -25,7 +25,7 @@ $filenames = scandir($folderPath);
     }
 </style>
 <body>
-    <h1>1st Semester</h1>
+    <h1>2nd Semester</h1>
     
 <div class="card">
     <?php foreach ($filenames as $filename): ?>
