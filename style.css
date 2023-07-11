@@ -23,7 +23,7 @@ nav img{
 }
 .nav-links{
     flex: 1;
-    text-align: right;
+    text-align: justify;
 }
 .nav-links ul li{
     list-style: none;
@@ -55,7 +55,7 @@ nav img{
     top: 50%;
     left: 50%
     transfrom: translate(-50%,-50%);
-    text-align: center;
+    text-align:justify;
 }
 .text-box h1{
     font-size: 62px;
@@ -99,7 +99,7 @@ nav .fa{
         width: 200px;
         top: 0;
         right: -200px;
-        text-align: left;
+        text-align: justify;
         z-index: 2;
         transition: 1s;
     }
@@ -118,7 +118,7 @@ nav .fa{
 .notes{
     width: 80%;
     margin:auto;
-    text-align: center;
+    text-align: justify;
     padding-top: 100px;
 }
 h1{
@@ -197,13 +197,13 @@ layer{
 
     margin: auto;
     padding-top: 100px;
-    text-align: center;
+    text-align: justify;
 }
 .testimonial-col{
     flex-basis: 44%;
     border-radius: 10px;
     margin-bottom: 5%;
-    text-align: left;
+    text-align: justify;
     background: #fff3f3;
     padding: 25px;
     cursor: pointer;
@@ -221,7 +221,7 @@ layer{
 }
 .testimonial-col h3{
     margin-top: 15px;
-    text-align: left;
+    text-align: justify;
 }
 @media(max-width: 700px){
     .testimonial-col  img{
@@ -236,7 +236,7 @@ layer{
     background-position: center;
     background-size: cover;
     border-radius: 10px;
-    text-align: center;
+    text-align: justify;
     padding: 100px 0;
 }  
 .cta h1{
@@ -251,7 +251,7 @@ layer{
 }
 .footer{
     width: 100%;
-    text-align: center;
+    text-align: justify;
     padding: 30px 0;
 }
 .footer h4{
